@@ -1,0 +1,66 @@
+[
+    {
+      "image": "../src/assets/Rectangle 2.png",
+      "course_title":"Web Dev And Fundamentals",
+      "course_description": "Master the essentials of website dev including HTML, CSS, and JavaScript and build your own web applications.",
+      "price": 49.99,
+      "credits": 2
+    },
+    {
+      "image": "../src/assets/Rectangle 2-1.png",
+      "course_title": "Data Science Essentials",
+      "course_description": "Explore the crucial data analysis and machine learning concepts to excel in the data-driven world of today.",
+      "price": 69.99,
+      "credits": 1
+    },
+    {
+      "image": "../src/assets/Rectangle 2-2.png",
+      "course_title": "Graphic Design Mastery",
+      "course_description": "Master the essentials of website dev including HTML, CSS, and JavaScript and build your own web applications.",
+      "price": 59.99,
+      "credits": 9
+    },
+    {
+      "image": "../src/assets/Rectangle 2-3.png",
+      "course_title": "Business Finance for Beginners",
+      "course_description": "Acquire the foundational knowledge of business finance for effective financial management and decision-making.",
+      "price": 39.99,
+      "credits": 8
+    },
+    {
+      "image": "../src/assets/Rectangle 2-4.png",
+      "course_title": "Mobile App Development",
+      "course_description": "Create cross-platform mobile apps for iOS and Android using React Native and become a skilled app developer.",
+      "price": 79.99,
+      "credits": 7
+    },
+    {
+      "image": "../src/assets/Rectangle 2-5.png",
+      "course_title": "Introduction to Machine L.",
+      "course_description": "Explore the crucial data analysis and machine learning concepts to excel in the data-driven world of today.",
+      "price": 59.99,
+      "credits": 6
+    },
+    {
+      "image": "../src/assets/Rectangle 2-6.png",
+      "course_title": "Digital Marketing Strategies",
+      "course_description": "Gain insights into effective digital marketing techniques and strategies for online business success and growth.",
+      "price": 49.99,
+      "credits": 5
+    },
+    {
+      "image": "../src/assets/Rectangle 3.png",
+      "course_title": "AI Health Support",
+      "course_description": "Discover how artificial intelligence is revolutionizing the healthcare sector and improving patient care.",
+      "price": 69.99,
+      "credits": 4
+    },
+    {
+      "image": "../src/assets/Rectangle 3-1.png",
+      "course_title":"Cybersecurity Fundamentals",
+      "course_description": "Master the essential basics of cybersecurity to protect digital assets, privacy, and stay ahead of cyber threats.",
+      "price": 59.99,
+      "credits": 3
+    }
+  ]
+  
